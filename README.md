@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Felipe Cavalcanti 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full-Stack</b> em busca da minha primeira vaga <b>júnior</b><br>
+  <b>Desenvolvedor Full-Stack</b> · Formando em <b>Engenharia de Software</b> · Em busca da minha primeira vaga <b>júnior</b><br>
   Construo interfaces modernas, responsivas e pensadas para conversão, do design no Figma ao deploy.
 </p>
 
@@ -16,6 +16,7 @@
 
 - 🎯 Foco em **desenvolvimento full-stack**, com base forte em **front-end e UI/UX**
 - 🎨 Gosto de transformar identidade visual em interfaces que vendem: layout, tipografia, animações e experiência do usuário
+- 🎓 Formando em **Engenharia de Software** pela **UNICEPLAC** (conclusão em dez/2026)
 - 📚 Cursando a formação **Fullstack com IA da [B7Web](https://b7web.com.br/)**
 - 🤖 Uso **IA como parte do meu fluxo de desenvolvimento** (Claude, OpenAI, Codex) para planejar, codar, revisar e aprender mais rápido
 - 🌱 Aprendendo continuamente e buscando um time onde eu possa crescer e entregar valor desde o primeiro dia
@@ -24,6 +25,9 @@
 ---
 
 ## 🎓 Formação
+
+**Bacharelado em Engenharia de Software · UNICEPLAC** <sub>(presencial · 8º período · conclusão prevista em dez/2026)</sub>
+Base em engenharia de requisitos, arquitetura de software, banco de dados, testes e metodologias ágeis.
 
 **Fullstack com IA · B7Web** <sub>(em andamento)</sub>
 Formação prática do zero ao deploy, com projetos reais e IA integrada ao processo desde o início.
