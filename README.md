@@ -77,9 +77,10 @@ Formação prática do zero ao deploy, com projetos reais e IA integrada ao proc
 
 ## 🚀 Projetos em destaque
 
-### 💈 [Vintage Club](https://github.com/MourinDev/vintage-club-project)
+### 💈 Vintage Club · Site para barbearia premium
 Site responsivo para uma barbearia premium, com foco em **UI/UX, identidade visual e conversão**. Inclui apresentação de serviços e barbeiros, portfólio, antes e depois, descoberta de estilo (visagismo) e agendamento.
 `HTML` `CSS` `JavaScript` `UI/UX`
+<sub>🔒 Repositório privado (projeto de cliente). Posso apresentar o código em entrevista.</sub>
 
 ### 🏢 SYNTEX · Landing Page corporativa
 Landing page premium para uma empresa de tecnologia, feita para converter visitantes corporativos em clientes. Arquitetura componentizada, animações de entrada, contadores, formulário de contato com **Route Handler** e build estático pronto para deploy.
