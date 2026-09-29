@@ -77,15 +77,15 @@ Formação prática do zero ao deploy, com projetos reais e IA integrada ao proc
 
 ## 🚀 Projetos em destaque
 
-### 💈 Vintage Club · Site para barbearia premium
+### 💈 [Vintage Club](https://vintage-club.vercel.app) · Site para barbearia premium
 Site responsivo para uma barbearia premium, com foco em **UI/UX, identidade visual e conversão**. Inclui apresentação de serviços e barbeiros, portfólio, antes e depois, descoberta de estilo (visagismo) e agendamento.
 `HTML` `CSS` `JavaScript` `UI/UX`
-<sub>🔒 Repositório privado (projeto de cliente). Posso apresentar o código em entrevista.</sub>
+🌐 **Demo:** site no ar (clique no título) · <sub>🔒 Repositório privado (projeto de cliente). Posso apresentar o código em entrevista.</sub>
 
-### 🏢 SYNTEX · Landing Page corporativa
+### 🏢 [SYNTEX](https://syntex-technology.vercel.app) · Landing Page corporativa
 Landing page premium para uma empresa de tecnologia, feita para converter visitantes corporativos em clientes. Arquitetura componentizada, animações de entrada, contadores, formulário de contato com **Route Handler** e build estático pronto para deploy.
 `Next.js 15` `React 19` `TypeScript` `Tailwind CSS 4`
-<sub>🔒 Repositório privado (projeto de cliente). Posso apresentar o código em entrevista.</sub>
+🌐 **Demo:** site no ar (clique no título) · <sub>🔒 Repositório privado (projeto de cliente). Posso apresentar o código em entrevista.</sub>
 
 ### 🗂️ [Organizador de Arquivos](https://github.com/MourinDev/organizador_arquivos.py)
 Script de automação que organiza uma pasta automaticamente: identifica cada arquivo pela extensão e o move para a pasta da categoria (imagens, documentos, vídeos, áudios, compactados e outros), criando as pastas quando necessário.
