@@ -87,7 +87,7 @@ Landing page premium para uma empresa de tecnologia, feita para converter visita
 <sub>🔒 Repositório privado (projeto de cliente). Posso apresentar o código em entrevista.</sub>
 
 ### 🗂️ [Organizador de Arquivos](https://github.com/MourinDev/organizador_arquivos.py)
-Script de automação que organiza uma pasta automaticamente, movendo cada arquivo para subpastas de acordo com a extensão (`.pdf`, `.jpg`, `.docx`, `.xlsx`…).
+Script de automação que organiza uma pasta automaticamente: identifica cada arquivo pela extensão e o move para a pasta da categoria (imagens, documentos, vídeos, áudios, compactados e outros), criando as pastas quando necessário.
 `Python` `Automação`
 
 ### 🔜 Projetos da formação B7Web
