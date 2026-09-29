@@ -16,8 +16,25 @@
 
 - 🎯 Foco em **desenvolvimento full-stack**, com base forte em **front-end e UI/UX**
 - 🎨 Gosto de transformar identidade visual em interfaces que vendem: layout, tipografia, animações e experiência do usuário
+- 📚 Cursando a formação **Fullstack com IA da [B7Web](https://b7web.com.br/)**
+- 🤖 Uso **IA como parte do meu fluxo de desenvolvimento** (Claude, OpenAI, Codex) para planejar, codar, revisar e aprender mais rápido
 - 🌱 Aprendendo continuamente e buscando um time onde eu possa crescer e entregar valor desde o primeiro dia
 - 💬 Pode falar comigo sobre **React, Next.js, TypeScript, Tailwind e design de interfaces**
+
+---
+
+## 🎓 Formação
+
+**Fullstack com IA · B7Web** <sub>(em andamento)</sub>
+Formação prática do zero ao deploy, com projetos reais e IA integrada ao processo desde o início.
+
+| Etapa | Conteúdo |
+|---|---|
+| 🎨 Front-end | HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS |
+| ⚙️ Back-end | Node.js, APIs REST |
+| 🗄️ Banco de dados | PostgreSQL |
+| 🚢 DevOps & Deploy | Docker, deploy de aplicações |
+| 🤖 IA no desenvolvimento | Claude, OpenAI, Codex |
 
 ---
 
@@ -29,6 +46,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -39,8 +57,16 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-8A2BE2?style=flat-square)
 
-**Estudando**
+**IA no desenvolvimento**
 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Em formação (B7Web)**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
@@ -59,6 +85,9 @@ Landing page premium para uma empresa de tecnologia, feita para converter visita
 ### 🗂️ [Organizador de Arquivos](https://github.com/MourinDev/organizador_arquivos.py)
 Script de automação que organiza uma pasta automaticamente, movendo cada arquivo para subpastas de acordo com a extensão (`.pdf`, `.jpg`, `.docx`, `.xlsx`…).
 `Python` `Automação`
+
+### 🔜 Projetos da formação B7Web
+Os projetos full-stack do curso (front + API + banco + deploy) serão adicionados aqui conforme forem concluídos.
 
 ---
 
