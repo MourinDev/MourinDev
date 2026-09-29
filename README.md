@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <!-- <a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
+  <a href="https://www.linkedin.com/in/felipemoura-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Aberto%20a%20oportunidades-J%C3%BAnior-2ea44f?style=for-the-badge" alt="Aberto a oportunidades">
 </p>
 
@@ -92,5 +92,5 @@ Os projetos full-stack do curso (front + API + banco + deploy) serão adicionado
 ---
 
 <p align="center">
-  <i>Obrigado pela visita! Se quiser conversar sobre uma oportunidade, é só me chamar. 🤝</i>
+  <i>Obrigado pela visita! Se quiser conversar sobre uma oportunidade, é só me chamar no <a href="https://www.linkedin.com/in/felipemoura-developer/">LinkedIn</a>. 🤝</i>
 </p>
